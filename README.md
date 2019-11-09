@@ -8,6 +8,7 @@
 |递归和循环|[矩形覆盖](https://github.com/Maxwell-L/SwordOffer/blob/master/Code/RectCoverSolution.java)|
 |位运算|[二进制中1的个数](https://github.com/Maxwell-L/SwordOffer/blob/master/Code/NumberOf1Solution.java)|
 |代码的完整性|[数值的整数次方](https://github.com/Maxwell-L/SwordOffer/blob/master/Code/PowerSolution.java)|
+|代码的完整性|[调整数组顺序使奇数位于偶数前面](https://github.com/Maxwell-L/SwordOffer/blob/master/Code/ReOrderArraySolution.java)|
 |代码的鲁棒性|[链表中倒数第k个结点](https://github.com/Maxwell-L/SwordOffer/blob/master/Code/FindKthToTailSolution.java)|
 |代码的鲁棒性|[反转链表](https://github.com/Maxwell-L/SwordOffer/blob/master/Code/ReverseListSolution.java)|
 |代码的鲁棒性|[合并两个排序的链表](https://github.com/Maxwell-L/SwordOffer/blob/master/Code/MergeSolution.java)|
