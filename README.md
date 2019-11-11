@@ -13,6 +13,7 @@
 |代码的鲁棒性|[链表中倒数第k个结点](https://github.com/Maxwell-L/SwordOffer/blob/master/Code/FindKthToTailSolution.java)|
 |代码的鲁棒性|[反转链表](https://github.com/Maxwell-L/SwordOffer/blob/master/Code/ReverseListSolution.java)|
 |代码的鲁棒性|[合并两个排序的链表](https://github.com/Maxwell-L/SwordOffer/blob/master/Code/MergeSolution.java)|
+|面试思路|[二叉树的镜像](https://github.com/Maxwell-L/SwordOffer/blob/master/Code/MirrorSolution.java)|
 |知识迁移能力|[数组中只出现一次的数字](https://github.com/Maxwell-L/SwordOffer/blob/master/Code/FindNumsAppearOnceSolution.java)|
 |知识迁移能力|[左旋转字符串](https://github.com/Maxwell-L/SwordOffer/blob/master/Code/LeftRotateStringSolution.java)|
 |知识迁移能力|[翻转单词顺序列](https://github.com/Maxwell-L/SwordOffer/blob/master/Code/ReverseSentenceSolution.java)|
