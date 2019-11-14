@@ -3,6 +3,7 @@
 |考点|题目|
 |:-:|:-:|
 |字符串|[替换空格](https://github.com/Maxwell-L/SwordOffer/blob/master/Code/ReplaceSpaceSolution.java)|
+|链表|[从尾到头打印链表](https://github.com/Maxwell-L/SwordOffer/blob/master/Code/PrintListFromTailToHeadSolution.java)|
 |栈和队列|[用两个栈实现队列](https://github.com/Maxwell-L/SwordOffer/blob/master/Code/QueueSolution.java)|
 |递归和循环|[斐波那契数列](https://github.com/Maxwell-L/SwordOffer/blob/master/Code/FibonacciSolution.java)|
 |递归和循环|[跳台阶](https://github.com/Maxwell-L/SwordOffer/blob/master/Code/JumpFloorSolution.java)|
