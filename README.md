@@ -20,7 +20,7 @@
 |知识迁移能力|[数组中只出现一次的数字](https://github.com/Maxwell-L/SwordOffer/blob/master/Code/FindNumsAppearOnceSolution.java)|
 |知识迁移能力|[左旋转字符串](https://github.com/Maxwell-L/SwordOffer/blob/master/Code/LeftRotateStringSolution.java)|
 |知识迁移能力|[翻转单词顺序列](https://github.com/Maxwell-L/SwordOffer/blob/master/Code/ReverseSentenceSolution.java)|
-|时间空间效率的平衡|[两个链表的第一个公共结点](https://github.com/Maxwell-L/SwordOffer/blob/master/Code/FindFirstCommonNode.java)|
+|时间空间效率的平衡|[两个链表的第一个公共结点](https://github.com/Maxwell-L/SwordOffer/blob/master/Code/FindFirstCommonNodeSolution.java)|
 |知识迁移能力|[二叉树的深度](https://github.com/Maxwell-L/SwordOffer/blob/master/Code/TreeDepthSolution.java)|
 |综合|[把字符串转换成整数](https://github.com/Maxwell-L/SwordOffer/blob/master/Code/StrToIntSolution.java)|
 |数组|[数组中重复的数字](https://github.com/Maxwell-L/SwordOffer/blob/master/Code/DuplicateSolution.java)|
