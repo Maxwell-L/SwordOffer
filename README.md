@@ -29,3 +29,4 @@
 |举例让抽象具体化|[包含min函数的栈](https://github.com/Maxwell-L/SwordOffer/blob/master/Code/MinStackSolution.java)|
 |举例让抽象具体化|[栈的压入、弹出序列](https://github.com/Maxwell-L/SwordOffer/blob/master/Code/IsPopOrderSolution.java)|
 |举例让抽象具体化|[从上往下打印二叉树](https://github.com/Maxwell-L/SwordOffer/blob/master/Code/PrintFromTopToBottomSolution.java)|
+|举例让抽象具体化|[二叉搜索树的后序遍历序列](https://github.com/Maxwell-L/SwordOffer/blob/master/Code/VerifySquenceOfBSTSolution.java)|
