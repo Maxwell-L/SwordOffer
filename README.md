@@ -32,3 +32,4 @@
 |举例让抽象具体化|[二叉搜索树的后序遍历序列](https://github.com/Maxwell-L/SwordOffer/blob/master/Code/VerifySquenceOfBSTSolution.java)|
 |分解让复杂问题简单|[复杂链表的复制](https://github.com/Maxwell-L/SwordOffer/blob/master/Code/CloneSolution.java)|
 |分解让复杂问题简单|[二叉搜索树和双向链表](https://github.com/Maxwell-L/SwordOffer/blob/master/Code/ConvertSolution.java)|
+|时间效率|[数组中出现次数超过一半的数字](https://github.com/Maxwell-L/SwordOffer/blob/master/Code/MoreThanHalfNumSolution.java)|
