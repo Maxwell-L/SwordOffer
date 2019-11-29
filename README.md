@@ -30,6 +30,7 @@
 |时间效率|[连续子数组的最大和](https://github.com/Maxwell-L/SwordOffer/blob/master/Code/FindGreatestSumOfSubArraySolution.java)|
 |时间空间效率的平衡|[第一个只出现一次的字符位置](https://github.com/Maxwell-L/SwordOffer/blob/master/Code/FirstNotRepeatingCharSolution.java)|
 |时间空间效率的平衡|[两个链表的第一个公共结点](https://github.com/Maxwell-L/SwordOffer/blob/master/Code/FindFirstCommonNodeSolution.java)|
+|知识迁移能力|[数字在排序数组中出现的次数](https://github.com/Maxwell-L/SwordOffer/blob/master/Code/GetNumberOfKSolution.java)|
 |知识迁移能力|[二叉树的深度](https://github.com/Maxwell-L/SwordOffer/blob/master/Code/TreeDepthSolution.java)|
 |知识迁移能力|[平衡二叉树](https://github.com/Maxwell-L/SwordOffer/blob/master/Code/IsBalancedSolution.java)|
 |知识迁移能力|[数组中只出现一次的数字](https://github.com/Maxwell-L/SwordOffer/blob/master/Code/FindNumsAppearOnceSolution.java)|
