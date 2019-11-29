@@ -17,6 +17,7 @@
 |代码的鲁棒性|[链表中倒数第k个结点](https://github.com/Maxwell-L/SwordOffer/blob/master/Code/FindKthToTailSolution.java)|
 |代码的鲁棒性|[反转链表](https://github.com/Maxwell-L/SwordOffer/blob/master/Code/ReverseListSolution.java)|
 |代码的鲁棒性|[合并两个排序的链表](https://github.com/Maxwell-L/SwordOffer/blob/master/Code/MergeSolution.java)|
+|代码的鲁棒性|[树的子结构](https://github.com/Maxwell-L/SwordOffer/blob/master/Code/HasSubtreeSolution.java)|
 |面试思路|[二叉树的镜像](https://github.com/Maxwell-L/SwordOffer/blob/master/Code/MirrorSolution.java)|
 |举例让抽象具体化|[包含min函数的栈](https://github.com/Maxwell-L/SwordOffer/blob/master/Code/MinStackSolution.java)|
 |举例让抽象具体化|[栈的压入、弹出序列](https://github.com/Maxwell-L/SwordOffer/blob/master/Code/IsPopOrderSolution.java)|
