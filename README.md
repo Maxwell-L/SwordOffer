@@ -38,6 +38,7 @@
 |知识迁移能力|[和为S的两个数字](https://github.com/Maxwell-L/SwordOffer/blob/master/Code/FindNumbersWithSumSolution.java)|
 |知识迁移能力|[左旋转字符串](https://github.com/Maxwell-L/SwordOffer/blob/master/Code/LeftRotateStringSolution.java)|
 |知识迁移能力|[翻转单词顺序列](https://github.com/Maxwell-L/SwordOffer/blob/master/Code/ReverseSentenceSolution.java)|
+|抽象建模能力|[孩子们的游戏(圆圈中最后剩下的数)](https://github.com/Maxwell-L/SwordOffer/blob/master/Code/LastRemainingSolution.java)|
 |综合|[把字符串转换成整数](https://github.com/Maxwell-L/SwordOffer/blob/master/Code/StrToIntSolution.java)|
 |数组|[数组中重复的数字](https://github.com/Maxwell-L/SwordOffer/blob/master/Code/DuplicateSolution.java)|
 
