@@ -43,4 +43,5 @@
 |发散思维能力|[不用加减乘除做加法](https://github.com/Maxwell-L/SwordOffer/blob/master/Code/AddSolution.java)|
 |综合|[把字符串转换成整数](https://github.com/Maxwell-L/SwordOffer/blob/master/Code/StrToIntSolution.java)|
 |数组|[数组中重复的数字](https://github.com/Maxwell-L/SwordOffer/blob/master/Code/DuplicateSolution.java)|
+|数组|[构建乘积数组](https://github.com/Maxwell-L/SwordOffer/blob/master/Code/MultiplySolution.java)|
 
