@@ -26,6 +26,7 @@
 |举例让抽象具体化|[二叉搜索树的后序遍历序列](https://github.com/Maxwell-L/SwordOffer/blob/master/Code/VerifySquenceOfBSTSolution.java)|
 |分解让复杂问题简单|[复杂链表的复制](https://github.com/Maxwell-L/SwordOffer/blob/master/Code/CloneSolution.java)|
 |分解让复杂问题简单|[二叉搜索树和双向链表](https://github.com/Maxwell-L/SwordOffer/blob/master/Code/ConvertSolution.java)|
+|分解让复杂问题简单|[字符串的排列](https://github.com/Maxwell-L/SwordOffer/blob/master/Code/PermutationSolution.java)|
 |时间效率|[数组中出现次数超过一半的数字](https://github.com/Maxwell-L/SwordOffer/blob/master/Code/MoreThanHalfNumSolution.java)|
 |时间效率|[最小的K个数](https://github.com/Maxwell-L/SwordOffer/blob/master/Code/GetLeastNumbersSolution.java)|
 |时间效率|[连续子数组的最大和](https://github.com/Maxwell-L/SwordOffer/blob/master/Code/FindGreatestSumOfSubArraySolution.java)|
