@@ -41,6 +41,7 @@
 |知识迁移能力|[左旋转字符串](https://github.com/Maxwell-L/SwordOffer/blob/master/Code/LeftRotateStringSolution.java)|
 |知识迁移能力|[翻转单词顺序列](https://github.com/Maxwell-L/SwordOffer/blob/master/Code/ReverseSentenceSolution.java)|
 |抽象建模能力|[孩子们的游戏(圆圈中最后剩下的数)](https://github.com/Maxwell-L/SwordOffer/blob/master/Code/LastRemainingSolution.java)|
+|发散思维能力|[求1+2+3+...+n](https://github.com/Maxwell-L/SwordOffer/blob/master/Code/SumSolution.java)|
 |发散思维能力|[不用加减乘除做加法](https://github.com/Maxwell-L/SwordOffer/blob/master/Code/AddSolution.java)|
 |综合|[把字符串转换成整数](https://github.com/Maxwell-L/SwordOffer/blob/master/Code/StrToIntSolution.java)|
 |数组|[数组中重复的数字](https://github.com/Maxwell-L/SwordOffer/blob/master/Code/DuplicateSolution.java)|
