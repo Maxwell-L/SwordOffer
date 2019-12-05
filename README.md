@@ -49,5 +49,5 @@
 |链表|[链表中环的入口结点](https://github.com/Maxwell-L/SwordOffer/blob/master/Code/EntryNodeOfLoopSolution.java)|
 |链表|[删除链表中重复的结点](https://github.com/Maxwell-L/SwordOffer/blob/master/Code/DeleteDuplicationSolution.java)|
 |树|[二叉树的下一个结点](https://github.com/Maxwell-L/SwordOffer/blob/master/Code/GetNextSolution.java)|
-|树|[对称的二叉树](https://github.com/Maxwell-L/SwordOffer/blob/master/Code/IsSymmertricalSolution.java)|
+|树|[对称的二叉树](https://github.com/Maxwell-L/SwordOffer/blob/master/Code/IsSymmetricalSolution.java)|
 |动态规划与贪婪|[剪绳子](https://github.com/Maxwell-L/SwordOffer/blob/master/Code/CutRopeSolution.java)|
