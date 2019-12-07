@@ -24,6 +24,7 @@
 |举例让抽象具体化|[栈的压入、弹出序列](https://github.com/Maxwell-L/SwordOffer/blob/master/Code/IsPopOrderSolution.java)|
 |举例让抽象具体化|[从上往下打印二叉树](https://github.com/Maxwell-L/SwordOffer/blob/master/Code/PrintFromTopToBottomSolution.java)|
 |举例让抽象具体化|[二叉搜索树的后序遍历序列](https://github.com/Maxwell-L/SwordOffer/blob/master/Code/VerifySquenceOfBSTSolution.java)|
+|举例让抽象具体化|[二叉树中和为某一值的路径](https://github.com/Maxwell-L/SwordOffer/blob/master/Code/FindPathSolution.java)|
 |分解让复杂问题简单|[复杂链表的复制](https://github.com/Maxwell-L/SwordOffer/blob/master/Code/CloneSolution.java)|
 |分解让复杂问题简单|[二叉搜索树和双向链表](https://github.com/Maxwell-L/SwordOffer/blob/master/Code/ConvertSolution.java)|
 |分解让复杂问题简单|[字符串的排列](https://github.com/Maxwell-L/SwordOffer/blob/master/Code/PermutationSolution.java)|
