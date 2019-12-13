@@ -54,4 +54,5 @@
 |树|[对称的二叉树](https://github.com/Maxwell-L/SwordOffer/blob/master/Code/IsSymmetricalSolution.java)|
 |树|[按之字形顺序打印二叉树](https://github.com/Maxwell-L/SwordOffer/blob/master/Code/PrintIISolution.java)|
 |树|[把二叉树打印成多行](https://github.com/Maxwell-L/SwordOffer/blob/master/Code/PrintSolution.java)|
+|树|[二叉搜索树的第k个结点](https://github.com/Maxwell-L/SwordOffer/blob/master/Code/KthNodeSolution.java)|
 |动态规划与贪婪|[剪绳子](https://github.com/Maxwell-L/SwordOffer/blob/master/Code/CutRopeSolution.java)|
