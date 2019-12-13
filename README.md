@@ -20,6 +20,7 @@
 |代码的鲁棒性|[合并两个排序的链表](https://github.com/Maxwell-L/SwordOffer/blob/master/Code/MergeSolution.java)|
 |代码的鲁棒性|[树的子结构](https://github.com/Maxwell-L/SwordOffer/blob/master/Code/HasSubtreeSolution.java)|
 |面试思路|[二叉树的镜像](https://github.com/Maxwell-L/SwordOffer/blob/master/Code/MirrorSolution.java)|
+|画图让抽象形象化|[顺时针打印矩阵](https://github.com/Maxwell-L/SwordOffer/blob/master/Code/PrintMatrixSolution.java)|
 |举例让抽象具体化|[包含min函数的栈](https://github.com/Maxwell-L/SwordOffer/blob/master/Code/MinStackSolution.java)|
 |举例让抽象具体化|[栈的压入、弹出序列](https://github.com/Maxwell-L/SwordOffer/blob/master/Code/IsPopOrderSolution.java)|
 |举例让抽象具体化|[从上往下打印二叉树](https://github.com/Maxwell-L/SwordOffer/blob/master/Code/PrintFromTopToBottomSolution.java)|
