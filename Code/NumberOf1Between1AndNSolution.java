@@ -11,7 +11,7 @@
  *     3、1 ~ bcde部分通过递归完成计算。
  */
 
-public class NumberOf1Between1AndN {
+public class NumberOf1Between1AndNSolution {
     public int NumberOf1Between1AndN_Solution(int n) {
         return numberOf1(Integer.toString(n).toCharArray(), n, 0);
     }

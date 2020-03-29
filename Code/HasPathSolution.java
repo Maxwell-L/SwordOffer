@@ -10,7 +10,7 @@
  *     1、主函数找到第一个字符匹配的，进入辅助函数。
  *     2、按照上下左右分别判断，若与下一个字符相同则设置 visit 为 1，进入下一层迭代。
  */
-public class HasPath {
+public class HasPathSolution {
     public boolean hasPath(char[] matrix, int rows, int cols, char[] str) {
         if(str == null || str.length == 0) {
             return false;

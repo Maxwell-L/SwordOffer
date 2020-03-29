@@ -32,7 +32,7 @@
 |时间效率|[数组中出现次数超过一半的数字](https://github.com/Maxwell-L/SwordOffer/blob/master/Code/MoreThanHalfNumSolution.java)|
 |时间效率|[最小的K个数](https://github.com/Maxwell-L/SwordOffer/blob/master/Code/GetLeastNumbersSolution.java)|
 |时间效率|[连续子数组的最大和](https://github.com/Maxwell-L/SwordOffer/blob/master/Code/FindGreatestSumOfSubArraySolution.java)|
-|时间效率|[整数中1出现的次数（从1到n整数中1出现的次数）](https://github.com/Maxwell-L/SwordOffer/blob/master/Code/NumberOf1Between1AndN.java)|
+|时间效率|[整数中1出现的次数（从1到n整数中1出现的次数）](https://github.com/Maxwell-L/SwordOffer/blob/master/Code/NumberOf1Between1AndNSolution.java)|
 |时间空间效率的平衡|[第一个只出现一次的字符位置](https://github.com/Maxwell-L/SwordOffer/blob/master/Code/FirstNotRepeatingCharSolution.java)|
 |时间空间效率的平衡|[两个链表的第一个公共结点](https://github.com/Maxwell-L/SwordOffer/blob/master/Code/FindFirstCommonNodeSolution.java)|
 |知识迁移能力|[数字在排序数组中出现的次数](https://github.com/Maxwell-L/SwordOffer/blob/master/Code/GetNumberOfKSolution.java)|
@@ -56,5 +56,6 @@
 |树|[按之字形顺序打印二叉树](https://github.com/Maxwell-L/SwordOffer/blob/master/Code/PrintIISolution.java)|
 |树|[把二叉树打印成多行](https://github.com/Maxwell-L/SwordOffer/blob/master/Code/PrintSolution.java)|
 |树|[二叉搜索树的第k个结点](https://github.com/Maxwell-L/SwordOffer/blob/master/Code/KthNodeSolution.java)|
-|回溯法|[矩阵中的路径](https://github.com/Maxwell-L/SwordOffer/blob/master/Code/HasPath.java)|
+|树|[数据流中的中位数](https://github.com/Maxwell-L/SwordOffer/blob/master/Code/GetMedianSolution.java)|
+|回溯法|[矩阵中的路径](https://github.com/Maxwell-L/SwordOffer/blob/master/Code/HasPathSolution.java)|
 |动态规划与贪婪|[剪绳子](https://github.com/Maxwell-L/SwordOffer/blob/master/Code/CutRopeSolution.java)|
